@@ -1,4 +1,5 @@
 # Ecommerce-Dashboard
+[img](https://github.com/Somesh140/Ecommerce-Dashboard-/blob/main/Ecommerce%20sales%20dashboard.png)
 
 Project Learnings
 * Created interactive Dashboard to track and analyze online sales data 
